@@ -13,3 +13,6 @@ Una vez tengamos cierto trabajo realizado, para realizar una snapshot seguimos l
 
 ## Repositorio remoto  
 
+- Primero configurar el usuario y el correo con los siguientes comandos:  
+  ![image](gitConfig.JPG)
+- Y con el comando "**git push**" añadimos los archivos al repositorio remoto.
